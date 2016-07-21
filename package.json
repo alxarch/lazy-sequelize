@@ -1,0 +1,27 @@
+{
+  "name": "lazy-sequelize",
+  "version": "1.0.0",
+  "description": "Lazy loading sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxarch/lazy-sequelize.git"
+  },
+  "author": "Sigalas Alexandros <alxarch@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxarch/lazy-sequelize/issues"
+  },
+  "homepage": "https://github.com/alxarch/lazy-sequelize#readme",
+  "dependencies": {
+    "lazybox": "^0.3.1",
+    "sequelize": "^3.23.6"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "sqlite3": "^3.1.4"
+  }
+}
